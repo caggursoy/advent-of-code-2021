@@ -10,3 +10,4 @@
 *  [Day 7](./day7/advent7.py) done!
 *  [Day 8](./day8/advent8.py) done! (with a bit of help)
 *  [Day 9](./day9/advent9.py) done! (with a bit of help)
+*  [Day 10](./day10/advent10.py) done! (with a bit of help regarding stacks!)
